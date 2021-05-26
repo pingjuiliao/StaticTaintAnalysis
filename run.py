@@ -6,7 +6,7 @@ LLVM_ROOT="./llvm-project-10.0.1/"
 CLANG=LLVM_ROOT + "build/bin/clang"
 PASS_LIB="./build/libBackwardSlicing.so"
 BBID_LIB="./build/libBBID.so"
-DEFAULT="./sample/sample/intraprocedural.c"
+DEFAULT="./sample/sample/sample.c"
 
 
 def error(msg) :
