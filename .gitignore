@@ -1,4 +1,6 @@
 **/a.out
 **/peda*
+**/tmp
 llvm-project-10.0.1
 build
+
