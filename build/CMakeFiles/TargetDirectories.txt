@@ -1,0 +1,4 @@
+/home/pingjui/StaticTaintAnalysis/build/CMakeFiles/rebuild_cache.dir
+/home/pingjui/StaticTaintAnalysis/build/CMakeFiles/edit_cache.dir
+/home/pingjui/StaticTaintAnalysis/build/CMakeFiles/intrinsics_gen.dir
+/home/pingjui/StaticTaintAnalysis/build/CMakeFiles/BackwardSlicing.dir

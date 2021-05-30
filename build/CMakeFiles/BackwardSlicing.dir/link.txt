@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared  -o libBackwardSlicing.so CMakeFiles/BackwardSlicing.dir/script/pass.cpp.o  -L/home/pingjui/BasicBlockIDTracing/llvm-project-10.0.1/llvm/include  -L/home/pingjui/BasicBlockIDTracing/llvm-project-10.0.1/build/include 
