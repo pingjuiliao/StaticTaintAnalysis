@@ -1,5 +1,4 @@
-./build/
 **/a.out
 **/peda*
-./llvm-project-10.0.1/
-./build
+**/llvm-project-10.0.1
+**/build
